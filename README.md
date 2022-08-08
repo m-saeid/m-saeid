@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning more about machine learning.
 - 💞️ I’m looking to collaborate on machine learning filed.
-- 📫 How to reach me: m.saeid74@yahoo.com
+- 📫 How to reach me: im.saeid2@gmail.com
 
 <!---
 m-saeid/m-saeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
