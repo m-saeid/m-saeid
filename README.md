@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammad Saeid => @m-saeid
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning more about machine learning.
-- 💞️ I’m looking to collaborate on machine learning filed.
+- 💞️ I’m looking to collaborate on point cloud filed.
 - 📫 How to reach me: im.saeid2@gmail.com
 
 <!---
